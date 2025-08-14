@@ -1,0 +1,13 @@
+{
+    "name": "sua-dupla/controle-estoque-simples",
+    "description": "Projeto simples de controle de estoque em PHP OO (MVC simplificado)",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
+
